@@ -5,6 +5,7 @@ body {
   padding: 20px;
   text-align: justify;
   background-color: plum;
+  margin: auto;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
 }
 
 h2 {
-  color: orange;
+  color: blue;
 }
 
 ul {
